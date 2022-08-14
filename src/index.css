@@ -1,0 +1,32 @@
+@import "~normalize.css";
+@import "~@blueprintjs/core/lib/css/blueprint.css";
+@import "~@blueprintjs/icons/lib/css/blueprint-icons.css";
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #f0f0f3;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tableContainer {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f0f0f3;
+  padding: 20px;
+  margin: 50px 0;
+  border-radius: 50px;
+  box-shadow: 10px 10px 21px #d3d3d6,
+              -10px -10px 21px #fff;
+}
+
+.postSearchInput {
+  margin: 10px;
+}
