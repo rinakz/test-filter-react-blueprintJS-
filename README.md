@@ -5,7 +5,7 @@ Filter-react-blueprintJS</h1>
  <li> node app.js </li>
 </ul>
 
-<h4>or</h4>
-you can see the project deployed here:
+<h3> or </h3>
+<p>you can see the project deployed here:</p>
 
 https://filter-react-blueprint.herokuapp.com/
